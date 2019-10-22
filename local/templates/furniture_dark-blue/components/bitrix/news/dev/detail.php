@@ -17,6 +17,7 @@ $this->setFrameMode(true);
 	"",
 	Array(
 		"DISPLAY_DATE" => $arParams["DISPLAY_DATE"],
+		"CANNONICAL" => $arParams["CANNONICAL"],
 		"DISPLAY_NAME" => $arParams["DISPLAY_NAME"],
 		"DISPLAY_PICTURE" => $arParams["DISPLAY_PICTURE"],
 		"DISPLAY_PREVIEW_TEXT" => $arParams["DISPLAY_PREVIEW_TEXT"],

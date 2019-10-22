@@ -19,4 +19,5 @@ $MESS["TP_CBIV_DISPLAY_AS_RATING"] = "В качестве рейтинга по�
 $MESS["TP_CBIV_AVERAGE"] = "Среднее значение";
 $MESS["TP_CBIV_RATING"] = "Рейтинг";
 $MESS["SPECIALDATE"] = "Установить свойство страницы specialdate";
+$MESS["CANNONICAL"] = "ID информационного блока для rel=canonical";
 ?>
